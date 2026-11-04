@@ -1,0 +1,9 @@
+# 本地抓取的 API 原始数据 / 临时截图，不进仓库
+_gh/
+__pycache__/
+*.pyc
+_*.png
+
+# 本机预览产物（GitHub 渲染的是 README.md 本身）
+preview.html
+preview.png
