@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="170" viewBox="0 0 280 170" role="img" aria-label="stats card placeholder">
+  <title>stats card placeholder</title>
+
+  <rect x="4" y="4" width="272" height="162" rx="24" fill="#FFF8F0" stroke="#FFD6E0" stroke-width="2.5"/>
+  <circle cx="140" cy="62" r="24" fill="#FFD6E0" opacity="0.7"/>
+  <circle cx="140.00" cy="52.64" r="7.20" fill="#FFFDF9"/><circle cx="148.90" cy="59.11" r="7.20" fill="#FFFDF9"/><circle cx="145.50" cy="69.57" r="7.20" fill="#FFFDF9"/><circle cx="134.50" cy="69.57" r="7.20" fill="#FFFDF9"/><circle cx="131.10" cy="59.11" r="7.20" fill="#FFFDF9"/><circle cx="140" cy="62" r="4.80" fill="#EBC46E"/>
+  <text x="140" y="116" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="20" font-weight="600" fill="#B5838D" text-anchor="middle" stroke="#B5838D" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">stats card</text>
+  <text x="140" y="140" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="13" font-weight="500" fill="#A9988A" text-anchor="middle" stroke="#A9988A" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">connect to load</text>
+  <circle cx="52" cy="146" r="4" fill="#9FD2B6"/>
+  <circle cx="228" cy="146" r="4" fill="#EBC46E"/>
+
+</svg>

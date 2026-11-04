@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="round paw dot">
+  <title>round paw dot</title>
+
+  <circle cx="12" cy="12" r="11" fill="#F2AFC2"/>
+  <circle cx="12" cy="15" r="4.3" fill="#FFFFFF" opacity="0.95"/>
+  <circle cx="7.2" cy="8.6" r="1.9" fill="#FFFFFF" opacity="0.95"/>
+  <circle cx="12" cy="7" r="1.9" fill="#FFFFFF" opacity="0.95"/>
+  <circle cx="16.8" cy="8.6" r="1.9" fill="#FFFFFF" opacity="0.95"/>
+
+</svg>

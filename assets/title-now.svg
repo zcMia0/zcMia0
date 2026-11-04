@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="72" viewBox="0 0 440 72" role="img" aria-label="right now">
+  <title>right now</title>
+
+  <rect x="4" y="8" width="432" height="56" rx="28" fill="#C8E6D4" opacity="0.62"
+        stroke="#9FD2B6" stroke-width="2"/>
+  <circle cx="42" cy="36" r="21" fill="#FFFDF9"/>
+  <g transform="translate(26,20)"><rect x="15" y="4" width="2.6" height="26" rx="1.3" fill="#6F9C81"/><circle cx="16" cy="8" r="5.5" fill="#F2AFC2"/><circle cx="16" cy="17" r="5.5" fill="#FFFFFF" stroke="#6F9C81" stroke-width="1.2"/><circle cx="16" cy="26" r="5.5" fill="#9FD2B6"/></g>
+  <text x="76" y="45" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="26" font-weight="600" fill="#6B5A4F" text-anchor="start" stroke="#6B5A4F" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">right now</text>
+  <circle cx="396" cy="30" r="3.2" fill="#9FD2B6"/>
+  <circle cx="408" cy="36" r="3.2" fill="#9FD2B6"/>
+  <circle cx="396" cy="42" r="3.2" fill="#9FD2B6"/>
+  <path d="M370 15 Q370 20 375 20 Q370 20 370 25 Q370 20 365 20 Q370 20 370 15 Z" fill="#9FD2B6"/>
+
+</svg>

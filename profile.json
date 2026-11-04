@@ -1,0 +1,57 @@
+{
+  "_source": "GitHub REST API: /users/zcMia0, /users/zcMia0/repos, /git/trees/main, plus raw README.md / requirements.txt / index.html",
+  "_fetched_at": "2026-11-04T15:40+08:00",
+  "_note": "界面全部文案的唯一数据源。改完在本目录执行 python build.py 即可重建 README.md、assets/*.svg 与 preview.html。",
+
+  "name": "zcMia0",
+  "github_url": "https://github.com/zcMia0",
+
+  "about_lines": [
+    "hi, i'm zcMia0 — i like making small, careful things.",
+    "lately i'm into RAG: retrieval, reranking, traceable answers.",
+    "my first site is still online from 2022. never took it down."
+  ],
+
+  "languages": ["Python", "TypeScript", "HTML + CSS", "Vue"],
+  "tools": ["Git + GitHub", "Docker", "FAISS · BM25", "FastAPI · Vue"],
+
+  "projects": [
+    {
+      "name": "enterprise-rag-workbench",
+      "desc": "企业知识库 RAG 工作台：文档入库 → 带溯源的流式问答",
+      "url": "https://github.com/zcMia0/enterprise-rag-workbench"
+    },
+    {
+      "name": "three-stage-rag-kit",
+      "desc": "电商三级检索：BM25 粗召回 → 向量语义 → 交叉编码器精排",
+      "url": "https://github.com/zcMia0/three-stage-rag-kit"
+    },
+    {
+      "name": "zcMia0.github.io",
+      "desc": "用 Hexo 搭的小小个人站点，从 2022 年挂到现在",
+      "url": "https://zcMia0.github.io"
+    },
+    {
+      "name": "a few handy forks",
+      "desc": "fuzz 字典、逆向工具、agent 框架，fork 来当工具箱用",
+      "url": "https://github.com/zcMia0?tab=repositories"
+    }
+  ],
+
+  "now": {
+    "eating": "something sweet",
+    "learning": "retrieval + reranking",
+    "building": "enterprise-rag-workbench"
+  },
+
+  "social": [
+    { "icon": "ico-github.svg", "title": "GitHub", "url": "https://github.com/zcMia0" },
+    { "icon": "ico-blog.svg", "title": "Blog", "url": "https://zcMia0.github.io" }
+  ],
+
+  "_not_shown": [
+    "X / Twitter：GitHub 资料里 twitter_username 为 null，未生成图标",
+    "Email：GitHub 资料里 email 为 null，未生成图标",
+    "Real name / location / bio / company：均为 null，界面里只用真实用户名 zcMia0，没有编造"
+  ]
+}

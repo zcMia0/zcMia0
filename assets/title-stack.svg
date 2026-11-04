@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="72" viewBox="0 0 440 72" role="img" aria-label="things i use">
+  <title>things i use</title>
+
+  <rect x="4" y="8" width="432" height="56" rx="28" fill="#C8E6D4" opacity="0.62"
+        stroke="#9FD2B6" stroke-width="2"/>
+  <circle cx="42" cy="36" r="21" fill="#FFFDF9"/>
+  <g transform="translate(26,20)"><circle cx="16" cy="20" r="7.5" fill="#6F9C81"/><circle cx="8" cy="10" r="3.2" fill="#6F9C81"/><circle cx="16" cy="7.5" r="3.2" fill="#6F9C81"/><circle cx="24" cy="10" r="3.2" fill="#6F9C81"/></g>
+  <text x="76" y="45" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="26" font-weight="600" fill="#6B5A4F" text-anchor="start" stroke="#6B5A4F" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">things i use</text>
+  <circle cx="396" cy="30" r="3.2" fill="#9FD2B6"/>
+  <circle cx="408" cy="36" r="3.2" fill="#9FD2B6"/>
+  <circle cx="396" cy="42" r="3.2" fill="#9FD2B6"/>
+  <path d="M370 15 Q370 20 375 20 Q370 20 370 25 Q370 20 365 20 Q370 20 370 15 Z" fill="#9FD2B6"/>
+
+</svg>

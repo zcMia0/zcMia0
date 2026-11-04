@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="212" viewBox="0 0 760 212" role="img" aria-label="a little note from me">
+  <title>a little note from me</title>
+
+  <path d="M 48 14 H 712 Q 746 14 746 48 V 138 Q 746 172 712 172 H 110 L 62 202 Q 56 204 58 194 L 66 172 H 48 Q 14 172 14 138 V 48 Q 14 14 48 14 Z" fill="#FFFDF9" stroke="#FFD6E0" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="60" cy="52" r="22" fill="#FFD6E0"/>
+  <text x="60" y="61" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="24" font-weight="400" fill="#6B5A4F" text-anchor="middle">💬</text>
+  <text x="100" y="74" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="18" font-weight="500" fill="#6B5A4F" text-anchor="start" stroke="#6B5A4F" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">hi, i'm zcMia0 — i like making small, careful things.</text>
+  <text x="100" y="112" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="18" font-weight="500" fill="#6B5A4F" text-anchor="start" stroke="#6B5A4F" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">lately i'm into RAG: retrieval, reranking, traceable answers.</text>
+  <text x="100" y="150" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="18" font-weight="500" fill="#6B5A4F" text-anchor="start" stroke="#6B5A4F" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">my first site is still online from 2022. never took it down.</text>
+  <circle cx="690" cy="150" r="4" fill="#F2AFC2"/>
+  <circle cx="706" cy="150" r="4" fill="#9FD2B6"/>
+  <circle cx="722" cy="150" r="4" fill="#EBC46E"/>
+  <circle cx="716.00" cy="33.76" r="4.80" fill="#FFD6E0"/><circle cx="721.93" cy="38.07" r="4.80" fill="#FFD6E0"/><circle cx="719.67" cy="45.05" r="4.80" fill="#FFD6E0"/><circle cx="712.33" cy="45.05" r="4.80" fill="#FFD6E0"/><circle cx="710.07" cy="38.07" r="4.80" fill="#FFD6E0"/><circle cx="716" cy="40" r="3.20" fill="#EBC46E"/>
+
+</svg>

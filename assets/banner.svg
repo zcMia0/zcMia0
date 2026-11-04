@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-label="Hi, I'm zcMia0, nice to meet you">
+  <title>Hi, I'm zcMia0, nice to meet you</title>
+
+  <defs><clipPath id="round"><rect x="6" y="6" width="848" height="238" rx="34"/></clipPath></defs>
+  <rect x="6" y="6" width="848" height="238" rx="34" fill="#FFF8F0" stroke="#FFD6E0" stroke-width="2.5"/>
+  <g clip-path="url(#round)">
+    <circle cx="806" cy="6" r="122" fill="#FFE9A8" opacity="0.40"/>
+    <circle cx="26" cy="248" r="122" fill="#C8E6D4" opacity="0.38"/>
+    <circle cx="726" cy="230" r="68" fill="#FFD6E0" opacity="0.55"/>
+    <circle cx="372" cy="2" r="52" fill="#FFD6E0" opacity="0.28"/>
+    <circle cx="646" cy="52" r="8" fill="#F2AFC2" opacity="0.55"/>
+    <circle cx="668" cy="34" r="5" fill="#9FD2B6" opacity="0.75"/>
+    <circle cx="812" cy="176" r="7" fill="#EBC46E" opacity="0.6"/>
+    <circle cx="290" cy="36" r="5" fill="#9FD2B6" opacity="0.7"/>
+    <path d="M760 54 Q760 62 768 62 Q760 62 760 70 Q760 62 752 62 Q760 62 760 54 Z" fill="#EBC46E"/>
+    <path d="M300 203 Q300 210 307 210 Q300 210 300 217 Q300 210 293 210 Q300 210 300 203 Z" fill="#F2AFC2"/>
+    <circle cx="794.00" cy="192.98" r="5.40" fill="#FFFFFF"/><circle cx="800.68" cy="197.83" r="5.40" fill="#FFFFFF"/><circle cx="798.13" cy="205.68" r="5.40" fill="#FFFFFF"/><circle cx="789.87" cy="205.68" r="5.40" fill="#FFFFFF"/><circle cx="787.32" cy="197.83" r="5.40" fill="#FFFFFF"/><circle cx="794" cy="200" r="3.60" fill="#EBC46E"/>
+  </g>
+  <circle cx="170" cy="130" r="100" fill="none" stroke="#9FD2B6"
+          stroke-width="2" stroke-dasharray="3 10" stroke-linecap="round" opacity="0.85"/>
+  <circle cx="170" cy="130" r="92" fill="#FFE7EE" stroke="#FFFFFF" stroke-width="6"/>
+  <!-- ===== MASCOT START · 换图只需替换这一组 ===== -->
+  <g transform="translate(78,38) scale(0.92)">
+    <ellipse cx="100" cy="186" rx="60" ry="8" fill="#E7D6C2" opacity="0.55"/>
+    <path d="M148 152 C 182 156 190 120 172 106" fill="none" stroke="#F7B267" stroke-width="17" stroke-linecap="round"/><circle cx="172" cy="106" r="9" fill="#FFF3E0"/>
+    <ellipse cx="100" cy="150" rx="55" ry="44" fill="#F7B267"/>
+    <ellipse cx="100" cy="154" rx="36" ry="31" fill="#FFF3E0"/>
+    <ellipse cx="72" cy="182" rx="18" ry="10" fill="#FFF3E0"/>
+    <ellipse cx="128" cy="182" rx="18" ry="10" fill="#FFF3E0"/>
+    <path d="M46 60 Q40 14 76 36 Q86 43 88 58 Z" fill="#F7B267"/><path d="M154 60 Q160 14 124 36 Q114 43 112 58 Z" fill="#F7B267"/><path d="M54 53 Q52 30 74 42 Z" fill="#FFC9D4"/><path d="M146 53 Q148 30 126 42 Z" fill="#FFC9D4"/>
+    <circle cx="100" cy="90" r="60" fill="#F7B267"/>
+    <rect x="88" y="34" width="7" height="15" rx="3.5" fill="#E8944A"/><rect x="100" y="30" width="7" height="19" rx="3.5" fill="#E8944A"/><rect x="112" y="34" width="7" height="15" rx="3.5" fill="#E8944A"/>
+    <ellipse cx="100" cy="106" rx="30" ry="19" fill="#FFF3E0"/>
+    <ellipse cx="78" cy="90" rx="6" ry="8" fill="#5B4636"/><ellipse cx="122" cy="90" rx="6" ry="8" fill="#5B4636"/><circle cx="80" cy="87" r="2" fill="#FFFFFF"/><circle cx="124" cy="87" r="2" fill="#FFFFFF"/>
+    <ellipse cx="62" cy="105" rx="10" ry="6" fill="#FFB3C1" opacity="0.85"/>
+    <ellipse cx="138" cy="105" rx="10" ry="6" fill="#FFB3C1" opacity="0.85"/>
+    <path d="M95 100 Q100 95 105 100 Q100 106 95 100 Z" fill="#E08C9B"/>
+    <path d="M100 105 Q93 114 86 107 M100 105 Q107 114 114 107" fill="none"
+          stroke="#5B4636" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M60 104 L40 100 M60 110 L42 113 M140 104 L160 100 M140 110 L158 113"
+          stroke="#5B4636" stroke-width="1.6" stroke-linecap="round" opacity="0.45"/>
+    <path d="M142 138 C 164 132 172 108 166 92" fill="none"
+          stroke="#F7B267" stroke-width="21" stroke-linecap="round"/>
+    <circle cx="166" cy="86" r="15" fill="#FFF3E0"/>
+    <circle cx="161" cy="81" r="2.4" fill="#F7B267"/>
+    <circle cx="168" cy="79" r="2.4" fill="#F7B267"/>
+    <circle cx="174" cy="82" r="2.4" fill="#F7B267"/>
+    <path d="M184 60 q9 -7 17 -1 M188 74 q8 -5 14 0" fill="none"
+          stroke="#F2AFC2" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="33.50" cy="31.50" r="5.00" fill="#FFB3C1"/><circle cx="42.50" cy="31.50" r="5.00" fill="#FFB3C1"/><path d="M29.30 33.00 L38 43.50 L46.70 33.00 Z" fill="#FFB3C1"/>
+  </g>
+  <!-- ===== MASCOT END ===== -->
+  <rect x="298" y="46" width="176" height="32" rx="16" fill="#FFFDF9" stroke="#9FD2B6" stroke-width="1.6"/>
+  <circle cx="316.00" cy="56.54" r="4.20" fill="#F2AFC2"/><circle cx="321.19" cy="60.31" r="4.20" fill="#F2AFC2"/><circle cx="319.21" cy="66.42" r="4.20" fill="#F2AFC2"/><circle cx="312.79" cy="66.42" r="4.20" fill="#F2AFC2"/><circle cx="310.81" cy="60.31" r="4.20" fill="#F2AFC2"/><circle cx="316" cy="62" r="2.80" fill="#EBC46E"/>
+  <text x="330" y="68" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="15" font-weight="600" fill="#6F9C81" text-anchor="start" stroke="#6F9C81" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">welcome in ~</text>
+  <text x="300" y="122" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="34" font-weight="600" fill="#B5838D" text-anchor="start" stroke="#B5838D" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">Hi, I'm zcMia0 👋</text>
+  <text x="302" y="162" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="23" font-weight="500" fill="#6B5A4F" text-anchor="start" stroke="#6B5A4F" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">nice to meet you!</text>
+  <rect x="300" y="182" width="204" height="34" rx="17" fill="#FFFDF9" stroke="#EBC46E" stroke-width="1.6"/>
+  <text x="322" y="205" font-family="'Varela Round','Quicksand','Nunito','Arial Rounded MT Bold','Avenir Next Rounded','Chalkboard SE','Trebuchet MS','Segoe UI','Microsoft YaHei','Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif" font-size="15" font-weight="500" fill="#A9988A" text-anchor="start" stroke="#A9988A" stroke-width="0.95" stroke-linejoin="round" paint-order="stroke">a tiny cozy corner</text>
+  <circle cx="482.40" cy="197.00" r="4.00" fill="#F2AFC2"/><circle cx="489.60" cy="197.00" r="4.00" fill="#F2AFC2"/><path d="M479.04 198.20 L486 206.60 L492.96 198.20 Z" fill="#F2AFC2"/>
+  <circle cx="540" cy="199" r="3.5" fill="#9FD2B6"/>
+  <circle cx="552" cy="199" r="3.5" fill="#EBC46E"/>
+  <circle cx="564" cy="199" r="3.5" fill="#F2AFC2"/>
+
+</svg>
