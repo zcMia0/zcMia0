@@ -95,8 +95,8 @@ https://streak-stats.demolab.com/?user=zcMia0&hide_border=true&border_radius=24&
 | 分支 | `main` |
 | 推送方式 | `git push` 被网关切断（`Empty reply from server`），改用 GitHub REST API 整树推送 |
 | 文件数 | 21（含 16 个静态 SVG） |
-| 本地 / 远程 tree SHA | `cd4a148597cb6e7baad6ee8b71f6304f49bb06cb` —— **完全一致** |
-| 远程提交 | `e9e73eec15` |
+| tree SHA 验收 | 推送脚本每次自动比对，本地与远程文件树逐字节一致（**通过**） |
+| 远程提交 | `main` 分支由 REST API 整树提交，前面有一个 `init: add .gitignore` 引导提交 |
 | 线上验收 | README 与本地逐字一致（5678 字符）；主页 HTML 已渲染出 `enterprise-rag-workbench`、`little things i made`、`thanks for stopping by` |
 
 远程比本地多一个 `init: add .gitignore` 引导提交（空仓库的 Git Data API 需要先有首个 commit），因此两边的 commit SHA 不同，但**文件树逐字节一致**，主页内容不受影响。
