@@ -83,3 +83,22 @@ https://streak-stats.demolab.com/?user=zcMia0&hide_border=true&border_radius=24&
 2. 本目录执行 `python build.py`，会重建 `README.md`、`assets/*.svg`、`preview.html`。
 3. 换主角：`python build.py --shiba` / `--cat`；换成自己的图：`python build.py --mascot assets/mascot.png`（自动内嵌为 data URI）。
 4. 推到 `zcMia0/zcMia0` 仓库的 `main` 分支，个人主页即生效。
+
+---
+
+## 七、上传结果（已完成并线上验收）
+
+| 项目 | 结果 |
+|------|------|
+| 目标仓库 | https://github.com/zcMia0/zcMia0 —— 新建，公开 |
+| 生效页面 | https://github.com/zcMia0 |
+| 分支 | `main` |
+| 推送方式 | `git push` 被网关切断（`Empty reply from server`），改用 GitHub REST API 整树推送 |
+| 文件数 | 21（含 16 个静态 SVG） |
+| 本地 / 远程 tree SHA | `cd4a148597cb6e7baad6ee8b71f6304f49bb06cb` —— **完全一致** |
+| 远程提交 | `e9e73eec15` |
+| 线上验收 | README 与本地逐字一致（5678 字符）；主页 HTML 已渲染出 `enterprise-rag-workbench`、`little things i made`、`thanks for stopping by` |
+
+远程比本地多一个 `init: add .gitignore` 引导提交（空仓库的 Git Data API 需要先有首个 commit），因此两边的 commit SHA 不同，但**文件树逐字节一致**，主页内容不受影响。
+
+后续想改内容：编辑 `profile.json` → `python build.py` → `git add -A && git commit` → 跑本地 `_gh/push_via_api.py`（令牌只经 `GH_TOKEN` 环境变量传入，脚本会基于远程当前 tip 重新整树提交）。该脚本留在本地工作区，未上传进仓库。
